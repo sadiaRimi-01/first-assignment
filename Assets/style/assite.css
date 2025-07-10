@@ -76,3 +76,32 @@ nav li {
     font-size: 18px;
     color: rgba(37, 36, 50, 0.5);
 }
+/*productive users part*/
+.user-section{
+    border-radius: 10px;
+    padding: 70px 40px;
+    text-align: center;
+    gap: 10px;
+   margin: 35px 250px 25px 250px;
+    position: 141px 1258px;
+    
+}
+   
+.bg-2{
+    background-color:rgba(78, 71, 255, 0.1);
+}
+.user-items{
+    display: flex;
+   justify-content: space-around;
+   gap: 40px;
+}
+.user-title{
+    font-weight: bold;
+    font-size: 70px;
+    color: rgba(78, 71, 255, 1);
+}
+.user-description{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.5);
+}
