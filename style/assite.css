@@ -163,7 +163,8 @@ nav li {
 
 .contact-section {
     display: flex;
-    justify-content: space-between;
+    align-items: flex-start;
+    justify-content: center;
     gap: 80px;
     max-width: 1000px;
     margin: auto;
@@ -218,8 +219,7 @@ form textarea {
     font-size: 70px;
     color: rgba(78, 71, 255, 1);
 }
-
-footer {
+footer{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -231,15 +231,14 @@ footer ul li {
     list-style: none;
     font-size: 51;
     margin-right: 50px;
-
+    
 }
 
 footer ul {
     display: flex;
-    align-items: center;
+ align-items: center;
 }
-
-footer ul a {
+footer ul a{
     text-decoration: none;
     color: #8987A1;
 }
