@@ -149,7 +149,7 @@ nav li {
     width: 118px;
     height: 24px;
     gap: 4px;
-    background-image: url('/Assets/icon-star.png');
+    background-image: url('../Assets/icon-star.png');
     background-repeat: repeat-x;
     background-size: 24px 24px;
 }
